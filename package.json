@@ -1,0 +1,19 @@
+{
+  "name": "eggLearn",
+  "version": "1.0.0",
+  "description": "node egg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lipeng0826/eggLearn.git"
+  },
+  "author": "lipeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lipeng0826/eggLearn/issues"
+  },
+  "homepage": "https://github.com/lipeng0826/eggLearn#readme"
+}
